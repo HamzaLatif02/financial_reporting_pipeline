@@ -5,6 +5,7 @@ data/clean/
 data/charts/
 data/reporting.db
 data/*.pdf
+data/pipeline.log
 *.pyc
 .DS_Store
 *.egg-info/
